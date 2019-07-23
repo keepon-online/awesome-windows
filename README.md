@@ -9,6 +9,7 @@
 - [IntelliJ IDEA](http://www.jetbrains.com/idea/download/#section=windows) java 开发工具
 - [webstorm](http://www.jetbrains.com/webstorm/download/#section=windows) web开发工具
 - [vscode](https://code.visualstudio.com/)
+- [Git](https://git-scm.com/download/win)
 
 ## 截屏软件
 - [snipaste](https://zh.snipaste.com/download.html) Snipaste 是一个简单但强大的截图工具。
@@ -23,3 +24,7 @@
 ## 办公软件
 - [pdf阅读器](https://www.foxitsoftware.cn/downloads/) 福昕阅读器是一款小巧、快速且功能丰富的PDF阅读器，让您能够随时打开、浏览及打印任何PDF文件。不同于其他免费PDF阅读器，它拥有各种简单易用的功能，如：创建PDF文件、在共享审阅中添加注释等。
 
+## 内存清理软件
+- [MemReduct](https://www.henrypp.org/product/memreduct) 一款专业的内存清理软件
+## windows快速查找
+- [Everything](https://www.voidtools.com/zh-cn/) 快速查找文件或文件目录
