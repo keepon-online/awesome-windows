@@ -6,9 +6,14 @@
 - [mongodb](https://www.mongodb.com/download-center/community) MongoDB 是一个基于分布式文件存储的数据库。由 C++ 语言编写。旨在为 WEB 应用提供可扩展的高性能数据存储解决方案
 - [navicat-premium](https://www.navicat.com.cn/products/navicat-premium) Navicat Premium 是一套数据库开发工具，让你从单一应用程序中同时连接 MySQL、MariaDB、MongoDB、SQL Server、Oracle、PostgreSQL 和 SQLite 数据库。
 - [navicat-keygen](https://github.com/DoubleLabyrinth/navicat-keygen/) navicat-jh工具
+- [IntelliJ IDEA](http://www.jetbrains.com/idea/download/#section=windows) java 开发工具
+- [webstorm](http://www.jetbrains.com/webstorm/download/#section=windows) web开发工具
+- [vscode](https://code.visualstudio.com/)
 
 ## 截屏软件
 - [snipaste](https://zh.snipaste.com/download.html) Snipaste 是一个简单但强大的截图工具。
+## 看图软件
+- [极速看图](http://www.52pcfree.com/) 支持73种图片格式；除了支持jpg、png、bmp、gif等常用格式外，还支持raw、psd、cr2等专业格式
 ## 压缩
 - [7-Zip](http://www.7-zip.org/) - 用于处理压缩包的开源Windows实用程序。完美支持 7z，ZIP，GZIP，BZIP2和TAR 的全部特性，其他格式也可解压缩。
 
