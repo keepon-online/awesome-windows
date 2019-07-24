@@ -28,3 +28,5 @@
 - [MemReduct](https://www.henrypp.org/product/memreduct) 一款专业的内存清理软件
 ## windows快速查找
 - [Everything](https://www.voidtools.com/zh-cn/) 快速查找文件或文件目录
+## 播放器
+-[PotPlayer](http://www.potplayer.org/) PotPlayer 是一款优秀的高清视频播放器,它的前身是著名的KMPlayer
