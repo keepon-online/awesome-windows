@@ -17,6 +17,7 @@
 - [极速看图](http://www.52pcfree.com/) 支持73种图片格式；除了支持jpg、png、bmp、gif等常用格式外，还支持raw、psd、cr2等专业格式
 ## 压缩
 - [7-Zip](http://www.7-zip.org/) - 用于处理压缩包的开源Windows实用程序。完美支持 7z，ZIP，GZIP，BZIP2和TAR 的全部特性，其他格式也可解压缩。
+- [winzip](http://www.wenya.cn) WinZip 是一款功能强大并且易用的压缩实用程序, 支持 ZIP、CAB、TAR、GZIP、MIME, 以及更多格式的压缩文件
 
 ## 下载软件
 - [Motrix](https://motrix.app/zh-CN/) Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源。
