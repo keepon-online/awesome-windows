@@ -18,6 +18,7 @@
 ## 压缩
 - [7-Zip](http://www.7-zip.org/) - 用于处理压缩包的开源Windows实用程序。完美支持 7z，ZIP，GZIP，BZIP2和TAR 的全部特性，其他格式也可解压缩。
 - [winzip](http://www.wenya.cn) WinZip 是一款功能强大并且易用的压缩实用程序, 支持 ZIP、CAB、TAR、GZIP、MIME, 以及更多格式的压缩文件
+- [Bandizip](http://www.bandisoft.com/) 新一款通用ZIP解/压缩软件
 
 ## 下载软件
 - [Motrix](https://motrix.app/zh-CN/) Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源。
@@ -31,3 +32,5 @@
 - [Everything](https://www.voidtools.com/zh-cn/) 快速查找文件或文件目录
 ## 播放器
 - [PotPlayer](http://www.potplayer.org/) PotPlayer 是一款优秀的高清视频播放器,它的前身是著名的KMPlayer
+## Windows卸载
+- [Geek Uninstaller ](https://geekuninstaller.com/download) 快速彻底彻底清除Windows软件
