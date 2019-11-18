@@ -23,6 +23,7 @@
 ## 下载软件
 - [Motrix](https://motrix.app/zh-CN/) Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源。
 - [百度文库下载](http://www.bingdian001.com/?p=30) 无需积分就可以自由下载百度、豆丁、丁香、MBALib、Book118等文库文档，无需注册和登录。下载的文档最终生成高清晰度的pdf格式文档。
+-[猎鹰下载](http://www.eagleget.com/)一款免费强大易用的下载软件，兼容各大浏览器
 ## 办公软件
 - [pdf阅读器](https://www.foxitsoftware.cn/downloads/) 福昕阅读器是一款小巧、快速且功能丰富的PDF阅读器，让您能够随时打开、浏览及打印任何PDF文件。不同于其他免费PDF阅读器，它拥有各种简单易用的功能，如：创建PDF文件、在共享审阅中添加注释等。
 
