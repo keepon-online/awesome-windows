@@ -13,6 +13,7 @@
 
 ## 截屏软件
 - [snipaste](https://zh.snipaste.com/download.html) Snipaste 是一个简单但强大的截图工具。
+- [flameshot](https://github.com/lupoDharkael/flameshot) linux截图工具
 ## 看图软件
 - [极速看图](http://www.52pcfree.com/) 支持73种图片格式；除了支持jpg、png、bmp、gif等常用格式外，还支持raw、psd、cr2等专业格式
 ## 压缩
